@@ -1,0 +1,21 @@
+.profile {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.subject {
+  font-size: 16px;
+  letter-spacing: 5px;
+  font-family: "gulim";
+  color: red;
+  text-align: center;
+}
+
+#special {
+  text-align: center;
+}
+
+p {
+  color: greenyellow;
+}
