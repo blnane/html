@@ -42,13 +42,16 @@
   width: 20%;
   height: 400px;
   background: rgb(55, 55, 190);
-  float: left;
+  /* float: left; */
+  display: inline-block;
+  vertical-align: top;
 }
 .right-menu {
-  width: 80%;
+  width: 79%;
   height: 400px;
   background: coral;
-  float: right;
+  /* float: right; */
+  display: inline-block;
 }
 
 .footer {
