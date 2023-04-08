@@ -60,3 +60,24 @@
   background-color: grey;
   clear: both;
 }
+.left-box {
+  width: 78%;
+  height: 200px;
+  float: left;
+  border: 3px solid red;
+}
+.right-box {
+  width: 18%;
+  height: 200px;
+  float: right;
+  border: 3px solid red;
+}
+.img {
+  float: left;
+  width: 30;
+  height: 30;
+}
+
+.small-pont {
+  font-size: 5;
+}
