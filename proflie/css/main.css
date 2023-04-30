@@ -1,3 +1,9 @@
+div {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
 .profile {
   width: 100px;
   display: block;
@@ -115,7 +121,8 @@
   z-index: 5;
 }
 .explain-box {
-  width: 700px;
+  width: 80%;
+  max-width: 600px;
   margin: auto;
   padding: 20px;
   text-align: center;
